@@ -7,7 +7,9 @@ The program is a mini-shell that runs executables, with an option to give argume
 ---------------------------------
 Command Line Prompt
 ---------------------------------
+
 Command line format: [return code] [user]@[host]$
+
 Command Line Prompt Example: 0 shai@shai-laptop$
 
 
