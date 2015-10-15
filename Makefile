@@ -15,7 +15,7 @@ SOURCES= main.c
 OBJECTS=$(SOURCES:.c=.o)
 
 # executable name	
-EXECUTABLE=test
+EXECUTABLE=ex1
 
 $(EXECUTABLE): $(OBJECTS)
 	@echo "      Building target '" $@ "'"
