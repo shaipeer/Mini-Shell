@@ -6,16 +6,15 @@ The program is a mini-shell that runs executables, with an option to give argume
 ---------------------------------
 Shell Capabilities
 ---------------------------------
-* Running executables that are in the path, including bash commands.
-* Sending arguments to executable files
+- Running executables that are in the path, including bash commands.
+- Sending arguments to executable files
 
 ---------------------------------
 Command Line Prompt
 ---------------------------------
 
-Command line format: [return code] [user]@[host]$
-
-Command Line Prompt Example: 0 shai@shai-laptop$
+- Command line format: [return code] [user]@[host]$
+- Command Line Prompt Example: 0 shai@shai-laptop$
 
 
 ---------------------------------
@@ -31,6 +30,5 @@ Command Line Arguments Example: ls > exampleFile.txt
 ---------------
 Compilation
 ---------------
-Compelation line: make
-
-run line: ./ex1
+-Compelation line: make
+-Run line: ./ex1
