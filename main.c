@@ -17,7 +17,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/wait.h>
-
+ 
 enum  errorAndAlertCodes{EXECVP_ERROR = 255,	NO_GREATRE_SIGN_LOCATION = -1, FORK_ERROR = 10, OPEN_FILE_ERROR = 11, DUP2_ERROR = 12, CLOSE_FILE_ERROR = 13, SIGNAL_KILL_CHILD = 14, WAIT_ERROR = 15};
 
 static int   greaterSignLoc;	//represent the location of the '>' in the cmd array ; (-1) - not appear in cmd array ; other value - the location of '>' in 'cmd array'
