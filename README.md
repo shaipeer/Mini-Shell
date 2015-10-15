@@ -3,6 +3,11 @@ About
 --------
 The program is a mini-shell that runs executables, with an option to give arguments to the executables and save the output to a file.
 
+---------------------------------
+Shell capabilities
+---------------------------------
+* running executables that are in the path, including bash commands.
+* Sending arguments to executable files
 
 ---------------------------------
 Command Line Prompt
