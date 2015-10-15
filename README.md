@@ -30,5 +30,5 @@ Command Line Arguments Example: ls > exampleFile.txt
 ---------------
 Compilation
 ---------------
--Compelation line: make
--Run line: ./ex1
+- Compelation line: make
+- Run line: ./ex1
